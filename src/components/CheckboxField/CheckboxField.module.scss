@@ -15,7 +15,7 @@
 }
 
 .label {
-  composes: input__label from './../../pages/Main/Main.module.scss';
+  composes: input__label from './../Main/Main.module.scss';
   position: relative;
   padding-left: 2em;
   z-index: 0;

@@ -1,14 +1,14 @@
 
 
 .wrapper {
-  composes: input__wrapper from './../../pages/Main/Main.module.scss'
+  composes: input__wrapper from './../Main/Main.module.scss'
 }
 .input {
-  composes: input from './../../pages/Main/Main.module.scss'
+  composes: input from './../Main/Main.module.scss'
 }
 .label {
-  composes: input__label from './../../pages/Main/Main.module.scss'
+  composes: input__label from './../Main/Main.module.scss'
 }
 .error {
-  composes: input__error from './../../pages/Main/Main.module.scss'
+  composes: input__error from './../Main/Main.module.scss'
 }

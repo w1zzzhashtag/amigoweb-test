@@ -1,6 +1,5 @@
 import React from 'react'
 import cn from 'classnames'
-import { Link } from 'react-router-dom'
 
 import { TextField, CustomSelectField, CheckboxField } from './../../components'
 import { validateValues } from './validateValues'
@@ -63,9 +62,7 @@ const Main = () => {
         <h1 className={styles.header__title}>Регистрация</h1>
         <p className={styles.header__subtitle}>
           Уже есть аккаунт?
-          <Link to="/signin"
-            className={styles.link}
-          > Войти</Link>
+          <span className={styles.link}> Войти</span>
         </p>
       </div>
 

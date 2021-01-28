@@ -1,5 +1,4 @@
 import React from 'react'
-import { validateValues } from '../../pages/Main/validateValues'
 import styles from './CustomSelectField.module.scss'
 
 const OPTIONS = [
