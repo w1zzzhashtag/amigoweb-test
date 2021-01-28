@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/amigoweb-test/static/css/main.55ab7ab3.chunk.css",
-    "main.js": "/amigoweb-test/static/js/main.c4084677.chunk.js",
-    "main.js.map": "/amigoweb-test/static/js/main.c4084677.chunk.js.map",
+    "main.css": "/amigoweb-test/static/css/main.5185231b.chunk.css",
+    "main.js": "/amigoweb-test/static/js/main.7888c80d.chunk.js",
+    "main.js.map": "/amigoweb-test/static/js/main.7888c80d.chunk.js.map",
     "runtime-main.js": "/amigoweb-test/static/js/runtime-main.0a538dee.js",
     "runtime-main.js.map": "/amigoweb-test/static/js/runtime-main.0a538dee.js.map",
-    "static/js/2.1ff4f6cd.chunk.js": "/amigoweb-test/static/js/2.1ff4f6cd.chunk.js",
-    "static/js/2.1ff4f6cd.chunk.js.map": "/amigoweb-test/static/js/2.1ff4f6cd.chunk.js.map",
+    "static/js/2.5b02f23a.chunk.js": "/amigoweb-test/static/js/2.5b02f23a.chunk.js",
+    "static/js/2.5b02f23a.chunk.js.map": "/amigoweb-test/static/js/2.5b02f23a.chunk.js.map",
     "index.html": "/amigoweb-test/index.html",
-    "static/css/main.55ab7ab3.chunk.css.map": "/amigoweb-test/static/css/main.55ab7ab3.chunk.css.map",
-    "static/js/2.1ff4f6cd.chunk.js.LICENSE.txt": "/amigoweb-test/static/js/2.1ff4f6cd.chunk.js.LICENSE.txt"
+    "static/css/main.5185231b.chunk.css.map": "/amigoweb-test/static/css/main.5185231b.chunk.css.map",
+    "static/js/2.5b02f23a.chunk.js.LICENSE.txt": "/amigoweb-test/static/js/2.5b02f23a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0a538dee.js",
-    "static/js/2.1ff4f6cd.chunk.js",
-    "static/css/main.55ab7ab3.chunk.css",
-    "static/js/main.c4084677.chunk.js"
+    "static/js/2.5b02f23a.chunk.js",
+    "static/css/main.5185231b.chunk.css",
+    "static/js/main.7888c80d.chunk.js"
   ]
 }
