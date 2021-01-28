@@ -82,3 +82,25 @@
     color: rgba(#2C2738, .5);
   }
 }
+
+
+@media(max-width: 1600px) {
+  .wrapper {
+    width: 380px;
+  }
+}
+@media(max-width: 1200px) {
+  .wrapper {
+    width: 360px;
+  }
+}
+@media(max-width: 800px) {
+  .wrapper {
+    width: 340px;
+  }
+}
+@media(max-width: 500px) {
+  .wrapper {
+    width: 320px;
+  }
+}

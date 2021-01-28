@@ -14,4 +14,26 @@ body {
   font-weight: 400;
   color: #2C2738;
   background-color: #DBE2EA;
+  margin: 2em 0;
+}
+
+@media(max-width: 1600px) {
+  body {
+    font-size: 15px;
+  }
+}
+@media(max-width: 1200px) {
+  body {
+    font-size: 14px;
+  }
+}
+@media(max-width: 800px) {
+  body {
+    font-size: 13px;
+  }
+}
+@media(max-width: 500px) {
+  body {
+    font-size: 12px;
+  }
 }
