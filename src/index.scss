@@ -1,0 +1,17 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 16px;
+  line-height: 1.3;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+  color: #2C2738;
+  background-color: #DBE2EA;
+}
