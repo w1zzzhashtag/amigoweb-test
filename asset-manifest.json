@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/simtech-test-dev/static/css/main.55ab7ab3.chunk.css",
-    "main.js": "/simtech-test-dev/static/js/main.c4084677.chunk.js",
-    "main.js.map": "/simtech-test-dev/static/js/main.c4084677.chunk.js.map",
-    "runtime-main.js": "/simtech-test-dev/static/js/runtime-main.5006e3f6.js",
-    "runtime-main.js.map": "/simtech-test-dev/static/js/runtime-main.5006e3f6.js.map",
-    "static/js/2.1ff4f6cd.chunk.js": "/simtech-test-dev/static/js/2.1ff4f6cd.chunk.js",
-    "static/js/2.1ff4f6cd.chunk.js.map": "/simtech-test-dev/static/js/2.1ff4f6cd.chunk.js.map",
-    "index.html": "/simtech-test-dev/index.html",
-    "static/css/main.55ab7ab3.chunk.css.map": "/simtech-test-dev/static/css/main.55ab7ab3.chunk.css.map",
-    "static/js/2.1ff4f6cd.chunk.js.LICENSE.txt": "/simtech-test-dev/static/js/2.1ff4f6cd.chunk.js.LICENSE.txt"
+    "main.css": "/amigoweb-test/static/css/main.55ab7ab3.chunk.css",
+    "main.js": "/amigoweb-test/static/js/main.c4084677.chunk.js",
+    "main.js.map": "/amigoweb-test/static/js/main.c4084677.chunk.js.map",
+    "runtime-main.js": "/amigoweb-test/static/js/runtime-main.0a538dee.js",
+    "runtime-main.js.map": "/amigoweb-test/static/js/runtime-main.0a538dee.js.map",
+    "static/js/2.1ff4f6cd.chunk.js": "/amigoweb-test/static/js/2.1ff4f6cd.chunk.js",
+    "static/js/2.1ff4f6cd.chunk.js.map": "/amigoweb-test/static/js/2.1ff4f6cd.chunk.js.map",
+    "index.html": "/amigoweb-test/index.html",
+    "static/css/main.55ab7ab3.chunk.css.map": "/amigoweb-test/static/css/main.55ab7ab3.chunk.css.map",
+    "static/js/2.1ff4f6cd.chunk.js.LICENSE.txt": "/amigoweb-test/static/js/2.1ff4f6cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5006e3f6.js",
+    "static/js/runtime-main.0a538dee.js",
     "static/js/2.1ff4f6cd.chunk.js",
     "static/css/main.55ab7ab3.chunk.css",
     "static/js/main.c4084677.chunk.js"
